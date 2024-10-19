@@ -6,3 +6,9 @@
 //
 
 import Foundation
+// Character.swift
+struct Character {
+    let name: String
+    let images: [String]
+    let details: String
+}
